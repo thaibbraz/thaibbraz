@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🖖
 
 #### I'm a Full-Stack Developer instructor and mentor.
 
@@ -8,4 +8,3 @@
 - 🤖 Would be happy to learn anything related with technology and physics.
 - 😄 Pronouns: (She/They).
 - 💻 Programming language: [Javascript, C#, C, HTML, CSS, SQL, R, Python, Java].
-- ⚡ Fun fact: I'm a proud ravenclaw. 🖖
