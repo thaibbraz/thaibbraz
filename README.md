@@ -9,3 +9,5 @@
 - 😄 Pronouns: (She/They).
 - 💻 Programming language: [Javascript, C#, C, HTML, CSS, SQL, R, Python, Java].
 - 👽 Fun fact: I do love Sci-Fi Movies
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thainabbraz&layout=compact)
