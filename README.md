@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on CodeOp.
-- 🌱 Learning all about **Open Source**, cryptocurrencies, AI and financial market.
+- 🌱 Learning all about **solidty, smart contracts, blockchain**, cryptocurrencies, AI and a bit about financial market.
 - 🤖 Would be happy to learn anything related with technology and physics.
 - 😄 Pronouns: (She/They).
 - 💻 Programming language: [Javascript, C#, C, HTML, CSS, SQL, R, Python, Java].
