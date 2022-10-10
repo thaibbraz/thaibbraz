@@ -1,6 +1,6 @@
 ### Hi there 🖖
 
-#### I'm a Full-Stack Developer instructor and mentor.
+#### I'm a Full-Stack Developer.
 
 
 - 🔭 I’m currently working on CodeOp.
