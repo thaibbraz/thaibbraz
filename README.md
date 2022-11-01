@@ -1,8 +1,6 @@
 ### Hi there 🖖
 
-#### I'm a Full-Stack Developer.
-
-I’m a full stack developer with over 5 years of experience, passionate about automating processes with technical solutions. Currently learning web3 development and Solidity.
+I’m a **full stack developer** with over 5 years of experience, passionate about automating processes with technical solutions. Currently learning web3 development and Solidity.
 
 
 - 🔭 I’m currently working on CodeOp.
