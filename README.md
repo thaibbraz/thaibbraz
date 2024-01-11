@@ -10,4 +10,4 @@ I’m a **full stack developer** with over 5 years of experience, passionate abo
 - 🌱 Learning all about **startups, blockchain, and anything related to economy**.
 - 👽 Fun fact: I love Sci-Fi Movies 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thainabbraz&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thaibbraz&layout=compact)
