@@ -3,7 +3,7 @@
 I’m a **full stack developer** with over 5 years of experience, passionate about automating processes with technical solutions. 
 
 
-- 🔭 I’m currently working on CodeOp.
+- 🛰️ I’m currently working at LeafSpace.
 - 🤖 Would be happy to learn anything related with technology and physics.
 - 😄 Pronouns: (he/him). 🏳️‍⚧️
 - 💻 Programming language: [Nodejs, JavaScript, React, HTML, CSS, SQL, Python].
