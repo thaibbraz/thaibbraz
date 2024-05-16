@@ -5,7 +5,6 @@ I’m a **full stack developer** with over 5 years of experience, passionate abo
 
 - 🛰️ I’m currently working at LeafSpace.
 - 🤖 Would be happy to learn anything related with technology and physics.
-- 😄 Pronouns: (he/him). 🏳️‍⚧️
 - 💻 Programming language: [Nodejs, JavaScript, React, HTML, CSS, SQL, Python].
 - 🌱 Learning all about **startups, blockchain, and anything related to economy**.
 - 👽 Fun fact: I love Sci-Fi Movies 
